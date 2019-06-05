@@ -2,9 +2,42 @@
 
 This project provides some nice templates for writing thesis' or other academic writings.
 
-Download your favorit template and start writing!
+Download your favorit template, open it with the proper writer-software and start writing!
 
-## Example Screenshots
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. See LICENSE for full license text including copyright information.
+
+## Features
+
+* Page Templates
+  * Two different title pages, one for your university and one nice-looking
+  * Abstract Template
+  * Table of Content
+    * Chapter
+    * Images
+    * Tables
+  * Abbreviation index
+  * Appendix with index
+  * List of references
+  * Affirmation
+* Text Styles
+  * Headings, up to level 4
+  * Text
+  * Console
+  * Lists
+  * Numberings
+* Copy&Paste examples
+  * Images
+  * Tables
+  * Text styles
+* Table Styles
+  * Simple
+  * Matrix
+* Page Styles
+  * Header, Footer
+  * Footnote
+  
+
+## Example Screenshots (red)
 
 :warning: The provided screenshots were taken at 2019-06-05 and may not include latest changes.
 
