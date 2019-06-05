@@ -10,7 +10,6 @@ This software is provided 'as-is', without any express or implied warranty. In n
 
 * Page Templates
   * Two different title pages, one for your university and one nice-looking
-  * Abstract Template
   * Table of Content
     * Chapter
     * Images
@@ -35,7 +34,7 @@ This software is provided 'as-is', without any express or implied warranty. In n
 * Page Styles
   * Header, Footer
   * Footnote
-  
+
 
 ## Example Screenshots (red)
 
